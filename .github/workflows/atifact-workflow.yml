@@ -15,7 +15,7 @@ on:
         required: true
         default: 'error.html'
 env: 
-  BUCKET_NAME: web-artifacts-20918222222'
+  BUCKET_NAME: web-artifacts-20918222222
       
 jobs: # Jobs defined in the workflow
   build:
